@@ -1,0 +1,90 @@
+.jumbotron{
+    background:url("assets/main-banner.png")no-repeat center center, url('assets/banner-wave.svg'); 
+    background-size: cover;
+    position: relative;
+}
+.btn-primary
+{
+    background-color:#de6c17 !important;
+    height:48px;
+    border-radius:4px;
+    color:#fff;
+    border:0px !important;
+
+    font-family: Quicksand;
+    font-weight: bold;
+    font-size:18px;
+}
+.jumbotron img{
+    position: absolute;
+    left: 0;
+    bottom: 0;
+}
+.dark{
+    color:#36413c !important;
+}
+.pr{
+    color:#5e6e66 !important;
+}
+.links{
+    font-family: Quicksand;
+    font-weight: bold;
+    font: size 18px;
+    color:#de6c17 !important;
+}
+.banner-header
+{
+    font-family: Quicksand;
+    font-weight: bold;
+    font-size:45px;
+}
+.mobile-banner
+{
+    font-family: Quicksand;
+    font-weight: bold;
+    font-size:30px;
+}
+.mobile-sub
+{
+    font-family: Quicksand;
+    font-weight: 500;
+    font-size:20px;
+}
+.banner-sub
+{
+    font-family: Quicksand;
+    font-weight: 500;
+    font-size:24px;
+}
+h1
+{
+    font-family: Quicksand;
+    font-weight: bold;
+    font-size:45px;
+    color:#36413C;
+}
+h2
+{
+    font-family: Quicksand;
+    font-weight: bold;
+    font-size:28px;
+    color:#36413C;
+}
+h3{
+    font-family: Quicksand;
+    font-weight: 500;
+    font-size:24px;
+    color:#5e6e66;
+}
+h4
+{
+    font-family: Quicksand;
+    font-weight: bold;
+}
+p
+{
+    font-family: Quicksand;
+    font-weight: 500;
+    font-size:18px;
+    color:#5e6e66;
+}
